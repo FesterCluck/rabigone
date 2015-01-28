@@ -30,5 +30,5 @@
 	};
 	
 	window.rabigone = new rabigone();
-	rabigone.all();
+	window.rabigone.all();
 })();
